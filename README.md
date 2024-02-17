@@ -1,4 +1,7 @@
 # Ex.No:1a  			Study of Socket Programming
+SWETHA A 
+212223220114
+B.tech (IT)
 
 ## Aim: 
 To perform a study on Socket Programming
